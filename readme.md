@@ -1,5 +1,5 @@
 # Introduction 
-This Project 📊 outlines the steps taken fro the Exploratory Data Analysis of company layoffs dataset, using SQL queries to explore various aspects of the data. The focus 🔎 is on transforming data types, ensuring data quality, and performing exploratory data analysis (EDA) to derive meaningful insights.
+This Project 📊 outlines the steps taken for the Exploratory Data Analysis of the company layoffs dataset, using SQL queries to explore various aspects of the data. The focus 🔎 is on transforming data types, ensuring data quality, and performing exploratory data analysis (EDA) to derive meaningful insights.
 
 SQL queries? Check them out here: [Project_Queries](/Layoffs)
 
